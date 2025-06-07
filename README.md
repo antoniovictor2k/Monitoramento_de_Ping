@@ -22,4 +22,4 @@ Este projeto realiza o monitoramento contínuo de conectividade de rede utilizan
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/antoniovictor2k/Monitoramento_de_Ping
