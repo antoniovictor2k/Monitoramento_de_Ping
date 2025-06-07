@@ -7,7 +7,6 @@ from colorama import init, Fore
 
 init(autoreset=True)
 
-# Inicializa o mecanismo de síntese de voz
 inicial_voz_ativa = pyttsx3.init()
 inicial_voz_ativa.setProperty("rate", 175)
 inicial_voz_ativa.setProperty("volume", 1)
